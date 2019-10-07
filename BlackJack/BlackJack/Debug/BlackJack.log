@@ -1,0 +1,11 @@
+﻿  BlackJack.cpp
+  Card.cpp
+  Dealer.cpp
+  Deck.cpp
+c:\users\dweiler\source\repos\blackjack\blackjack\deck.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GamePlayer.cpp
+  Player.cpp
+  main.cpp
+  Generating Code...
+c:\users\dweiler\source\repos\blackjack\blackjack\card.cpp(97): warning C4715: 'Card::ConvertSuitToSymbol': not all control paths return a value
+  BlackJack.vcxproj -> C:\Users\dweiler\source\repos\BlackJack\Debug\BlackJack.exe
